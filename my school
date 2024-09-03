@@ -1,0 +1,40 @@
+<!doctype html>
+<html>
+<body style="background-color:cyan;">
+
+<h1 align = "center">MY SCHOOL</h1>
+<h1>my school is indo scots globle school</h1>
+<h1>indo scots globle schol is a lurning platform whare students come for lurning</h1>
+<h1>my school is one of the best school in my district </h1>
+ <h1>my school has dicipline and evrybody are know for clenlyness</h1>
+ <h1>we have  standerdes up to 9th</h1>
+
+
+<table border="5" width="100%">
+
+ <tr>
+  <th>house</th>
+  <th>house name</th>
+ </tr>
+ <tr>
+   <td>blue</td>
+   <td>gliding eagles</td>
+  </tr>
+ <tr>
+   <td>red</td>
+   <td> snoring falcons</td>
+   </tr>
+  <tr>
+   <td>green</td>
+    <td>towering hokes</td>
+   </tr>
+  <tr>
+    <td>yellow</td>
+    <td>salling kites</td>
+  </tr>
+  
+  </table>
+<a href="https://www.indoscotsglobalschool.com">my school</a>
+ 
+</body>
+</html>
